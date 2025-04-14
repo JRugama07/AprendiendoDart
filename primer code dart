@@ -1,0 +1,14 @@
+void main() {
+  print("Hola, mi nombre es leo");
+
+  var sumInt = 10;
+  var suumInt = 15;
+
+  var total = sumInt + suumInt;
+
+  if (total == 25) {
+    print("el valor es 25");
+  } else {
+    print("el valor no es 10");
+  }
+}
